@@ -1,4 +1,4 @@
-# Excel Data Cleaning & Transformation
+# Excel Data_Exploration
 
 A beginner-friendly data cleaning project completed for **Module 1 - Assignment 2 (Data Analytics)**. 
 
